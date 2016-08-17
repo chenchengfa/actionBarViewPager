@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MenuSwitchDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="style1">样式1</string>
+    <string name="style2">样式2</string>
+     <string name="style3">样式3</string>
+</resources>
