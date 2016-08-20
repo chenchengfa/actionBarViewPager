@@ -54,6 +54,8 @@ public class MainActivity extends FragmentActivity {
 		});
 
 		actionBar = getActionBar();
+		actionBar.setDisplayShowHomeEnabled(false);
+		actionBar.setDisplayShowTitleEnabled(false);
 		// 设置ActionBar 的导航方式: Tab导航
 		actionBar.setNavigationMode(ActionBar.NAVIGATION_MODE_TABS);
 
